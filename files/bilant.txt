@@ -1,0 +1,2 @@
+Valoarea totala a produselor din stoc este 1800005
+Most expensive product: Samsung S23 with value 900000

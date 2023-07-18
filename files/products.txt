@@ -1,0 +1,5 @@
+Iphone 14; telefon; 100; 5000
+Samsung S23; telefon; 200; 4500
+Beko A200; frigider; 50; 2000
+Sony Bravia; TV; 25; 10000
+Duracell; Baterii; 10001; 5
